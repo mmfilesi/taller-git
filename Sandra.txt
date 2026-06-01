@@ -1,1 +1,2 @@
-Archivo txt de Sandra para taller de github filesi
+Archivo txt de Sandra para taller de github filesi
+texto modificado para hacer nueva rama con pull request
